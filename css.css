@@ -37,3 +37,15 @@
     background-color: #008CBA;
     color: white;
   }
+  .button3 {
+    background-color: white;
+    color: black;
+    border: 2px solid red;
+    display: block;
+    margin: auto;
+  }
+  
+  .button3:hover {
+    background-color: red;
+    color: white;
+  }
